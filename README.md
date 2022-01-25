@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+☁️ Computer Engineering Student
+☁️ IBM Student Advocate
+☁️ Microsoft Learn Student Ambassador
+☁️ Women Who Code Merida Evangelist
+
 <!--
 **jona866/jona866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
