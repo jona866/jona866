@@ -2,8 +2,11 @@
 
 
 ☁️ Computer Engineering Student
+
 ☁️ IBM Student Advocate
+
 ☁️ Microsoft Learn Student Ambassador
+
 ☁️ Women Who Code Merida Evangelist
 
 <!--
