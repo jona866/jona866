@@ -9,7 +9,7 @@
 
 <h2>About me</h2>
 
-A curious life-long learner. I try to find an answer to "What is life?" through chemistry, physics and computer science.
+A curious life-long learner.
 <ul>
   <li>Computer Engineering Student</li>
   <li>Microsoft Learn Student Ambassador</li>
