@@ -12,10 +12,9 @@
 A curious life-long learner.
 <ul>
   <li>Computer Engineering Student</li>
-  <li>Microsoft Learn Student Ambassador</li>
-  <li>IBM Student Advocate</li>
-  <li>Women Who Code Merida Evangelist</li>
-  <li>Co-founder Toh Tech Community</li>
+  <li>Gold Microsoft Learn Student Ambassador</li>
+  <li>Evangelist - Women Who Code Merida</li>
+  <li>Co-founder - Toh Tech</li>
 </ul>
 </br>
 
