@@ -34,9 +34,3 @@ A curious life-long learner.
 <a  href="#"><img  src="https://img.shields.io/badge/-Git-2f2f2f?style=rounded-square&logo=git&logoColor=b299df"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/-GitHub-2f2f2f?style=rounded-square&logo=github&logoColor=b299df"></a>
 </div></br>
-
-<h2>My stats</h2>
-<div align="center">
-    <img  alt="Jona's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=jona866&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=f2f2f2&icon_color=b299df"  height="180"/>
-    <img  alt="Jona's Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jona866&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=f2f2f2&icon_color=b299df"  height="180"/>
-</div></br>
